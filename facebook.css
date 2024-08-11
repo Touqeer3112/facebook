@@ -1,0 +1,164 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: rgb(56,109,221);
+}
+.heading{
+    font-size: 40px;
+}
+.details{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 13px;
+    color: rgba(220,228,248,0.856);
+}
+.nav{
+       display: flex;
+       justify-content: space-around;
+       background-color: rgba(1,37,134,0.836);
+       color: white;
+       align-items: flex-end;
+       height: 80px;
+}
+.log-in{
+    padding-top: 18px;
+}
+.log-in-button{
+    color: white;
+    background-color: rgb(17,3,99);
+    padding: 2px 6px;
+}
+.margin-nav{
+    margin-right: 15px;
+}
+.email,.password{
+      background-color: rgb(247,247,188);
+      margin-bottom: 5px;
+}
+.email{
+    height: 25px;
+}
+.password{
+    height: 25px;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(204,207,211,0.623);
+}
+.bold{
+    font-size: 18px;
+    margin-top: 70px;
+    margin-left: 130px;
+}
+.left{
+    flex-basis: 55%;
+}
+.para{
+    font-size: 15px;
+    margin-top: 60px;
+    margin-left: 200px;
+}
+.margin-para{
+    font-weight: 500;
+    color: rgb(83,80,80);
+    margin-top: 25px;
+}
+.margin-b{
+    color: black;
+    margin-right: 10px;
+    font-weight: 600;
+}
+.right{
+    flex-basis: 45%;
+}
+.singup{
+    margin-bottom: 7px;
+    margin-top: 20px;
+    font-size: 32px;
+}
+.birthday{
+    font-size: 11px;
+}
+.vertical{
+    vertical-align: to;
+}
+.padding-radio{
+    margin-right: 15px;
+}
+.thick{
+    font-weight: 700;
+}
+.form{
+    height: 30px;
+    padding: 5px;
+    color: rgb(201, 197, 197);
+    border: 2px solid rgb(185, 184, 184);
+    font-weight: 600;
+    border-radius: 3px;
+}
+.margin-form{
+    margin-right: 14px;
+}
+.select{
+      height: 35px; 
+      background-color: rgb(218,216,216); 
+      font-weight: 600; 
+      border-radius: 4px;
+}
+.margin-select{
+    margin-right: 10px;
+}
+.terms{
+    color: rgb(100,100,99);
+    font-size: 13px;
+}
+.Create{
+    font-size: 14px;
+}
+.Birthday{
+         margin-bottom: 4px;
+}
+.date{
+    display: flex;
+}
+.singup-button{
+        height: 40px;
+        width: 160px;
+        background-color: rgb(33, 124, 5);
+        background: linear-gradient(to top,rgb(2, 107, 2),rgb(51, 202, 5));
+        color: white;
+        font-weight: 700;
+        border-radius: 5px;
+        font-size: 20px;
+}
+.width{
+    width: 350px;
+}
+.white{
+    height: 40px;
+    border-top: 3px Solid rgba(179,177,177,0.651);
+}
+.select-width{
+    width: 50px;
+}
+.log-in-button:hover{
+    cursor: pointer;
+}
+.singup-button:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
